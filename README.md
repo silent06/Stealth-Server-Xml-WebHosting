@@ -26,7 +26,7 @@ Additional Notes
 
     node -v
 
-    If you need further assistance, please refer to the Node.js documentation or check the issues section of this repository.
+    If you need further assistance, please refer to the Node.js documentation.
 
 
 
